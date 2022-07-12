@@ -5,17 +5,17 @@
 
 
 # 잔디
+
+<div>
+
 <!-- BackJoon Tier -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=juneseok0107&theme=warm)
-
-
-# BackJoon Tier
-<!-- BOX -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
 
-<!-- MINI -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=2A7D8A&height=200&section=footer)
