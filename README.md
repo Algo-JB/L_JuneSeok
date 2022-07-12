@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=2A7D8A&height=200&section=header&text=JAVA%20STUDY&fontSize=50&animation=twinkling)
+<div align = center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107)](https://github.com/JSL107/github-readme-stats)
 
