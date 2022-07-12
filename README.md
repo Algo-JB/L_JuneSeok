@@ -2,12 +2,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107)](https://github.com/JSL107/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSL107)](https://github.com/JSL107/github-readme-stats)
 
+# 잔디
 <!-- BackJoon Tier -->
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=juneseok0107&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=juneseok0107&theme=warm"/>
 
+
+# BackJoon Tier
 <!-- BOX -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
